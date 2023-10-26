@@ -1,0 +1,187 @@
+*{
+
+}
+#subjectInput {
+    
+        position: absolute;
+        top:  25%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    border: rgb(76, 203, 76) 2px solid;
+    background-color: rgb(248, 255, 248);
+    border-radius: 10px;
+    width: 580px;
+    height: 45px;
+    transition: 0.3s;
+}
+#subjectInput:focus{
+    outline: rgb(76, 203, 76) 2px solid;
+}
+#subjectInput:hover{
+    transition: 0.3s;
+    width: 583;
+    height: 47px;
+    position: absolute;
+    top:  25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#subjectInput::placeholder{
+    color: rgba(0, 10, 0, 0.762);
+    font-size: 18px;
+}
+
+#proprtiesInput {
+    
+    position: absolute;
+    top:  42%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+border: rgb(76, 203, 76) 2px solid;
+background-color: rgb(248, 255, 248);
+border-radius: 10px;
+width: 580px;
+height: 45px;
+transition: 0.3s;
+}
+#proprtiesInput:focus{
+outline: rgb(76, 203, 76) 2px solid;
+}
+#proprtiesInput:hover{
+transition: 0.3s;
+width: 583;
+height: 47px;
+position: absolute;
+top:  42%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+#proprtiesInput::placeholder{
+color: rgba(0, 10, 0, 0.762);
+font-size: 18px;
+}
+
+#proprtiesInput {
+    
+    position: absolute;
+    top:  42%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+border: rgb(76, 203, 76) 2px solid;
+background-color: rgb(248, 255, 248);
+border-radius: 10px;
+width: 580px;
+height: 45px;
+transition: 0.3s;
+}
+#proprtiesInput:focus{
+outline: rgb(76, 203, 76) 2px solid;
+}
+#proprtiesInput:hover{
+transition: 0.3s;
+width: 583;
+height: 47px;
+position: absolute;
+top:  42%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+#proprtiesInput::placeholder{
+color: rgba(0, 10, 0, 0.762);
+font-size: 18px;
+}
+
+
+#phonecallInput {
+    
+    position: absolute;
+    top:  59%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+border: rgb(76, 203, 76) 2px solid;
+background-color: rgb(248, 255, 248);
+border-radius: 10px;
+width: 580px;
+height: 45px;
+transition: 0.3s;
+}
+#phonecallInput:focus{
+outline: rgb(76, 203, 76) 2px solid;
+}
+#phonecallInput:hover{
+transition: 0.3s;
+width: 583;
+height: 47px;
+position: absolute;
+top:  59%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+#phonecallInput::placeholder{
+color: rgba(0, 10, 0, 0.762);
+font-size: 18px;
+}
+
+
+
+#ChannelId {
+    
+    position: absolute;
+    top:  91%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+border: rgb(76, 203, 76) 2px solid;
+background-color: rgb(248, 255, 248);
+border-radius: 10px;
+width: 580px;
+height: 45px;
+transition: 0.3s;
+}
+#ChannelId:focus{
+outline: rgb(76, 203, 76) 2px solid;
+}
+#ChannelId:hover{
+transition: 0.3s;
+width: 583;
+height: 47px;
+position: absolute;
+top:  91%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+#ChannelId::placeholder{
+color: rgba(0, 10, 0, 0.762);
+font-size: 18px;
+}
+
+
+
+#Chid {
+    
+    position: absolute;
+    top:  75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+border: rgb(76, 203, 76) 2px solid;
+background-color: rgb(248, 255, 248);
+border-radius: 10px;
+width: 580px;
+height: 45px;
+transition: 0.3s;
+}
+#Chid:focus{
+outline: rgb(76, 203, 76) 2px solid;
+}
+#Chid:hover{
+transition: 0.3s;
+width: 583;
+height: 47px;
+position: absolute;
+top:  76%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+#Chid::placeholder{
+color: rgba(0, 10, 0, 0.762);
+font-size: 18px;
+}
